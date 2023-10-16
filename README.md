@@ -28,3 +28,6 @@ This API is able to:
   - endpoint: `/tasks/:taskId`
   - For this route you need to set a basic auth authorization of an existing user, set the username and email.
 
+### Check the Swagger Documentation by clicking the link bellow:
+
+<a href="https://java-spring-boot-todolist.onrender.com/swagger-ui">Swagger UI docs</a>
