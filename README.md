@@ -2,6 +2,8 @@
 
 This API was made during the course of **Rocketseat**, where it was taught some concepts about java and the Springboot framework.
 
+It was used planetscale database to store and retrieve data.
+
 This API was deployed onrender using a Dockerfile. If you want to check it out click the link below.
 
 <a href="https://java-spring-boot-todolist.onrender.com/"> Link of the API deployed on render.</a>
