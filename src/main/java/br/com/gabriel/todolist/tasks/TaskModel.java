@@ -8,7 +8,8 @@ import org.hibernate.annotations.UpdateTimestamp;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-@Entity(name = "tb_task")
+@Entity
+@Table(name = "tb_task")
 public class TaskModel {
 
     @Id

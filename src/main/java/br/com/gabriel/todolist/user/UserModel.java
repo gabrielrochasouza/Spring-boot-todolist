@@ -7,7 +7,8 @@ import org.hibernate.annotations.UpdateTimestamp;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-@Entity(name="tb_users")
+@Entity
+@Table(name="tb_users")
 public class UserModel {
 
     @Id
